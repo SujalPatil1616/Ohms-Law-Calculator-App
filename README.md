@@ -68,7 +68,7 @@ R = V / I
 
 ### MIT App Inventor Blocks
 
-<img src="images/app_blocks.jpg" width="700">
+<img src="https://github.com/SujalPatil1616/Ohms-Law-Calculator-App/blob/main/Ohm's%20law%20calculator.png" width="700">
 
 ---
 
