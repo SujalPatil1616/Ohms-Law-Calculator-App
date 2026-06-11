@@ -60,7 +60,7 @@ R = V / I
 
 ### Home Screen
 
-<img src="images/home_screen.jpg" width="300">
+<img src="https://github.com/SujalPatil1616/Ohms-Law-Calculator-App/blob/main/Homescreen%20Example.png" width="300">
 
 ### Current Calculation Example
 
