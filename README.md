@@ -64,7 +64,7 @@ R = V / I
 
 ### Current Calculation Example
 
-<img src="images/current_calculation.jpg" width="300">
+<img src="https://github.com/SujalPatil1616/Ohms-Law-Calculator-App/blob/main/Calculation%20Example.png" width="300">
 
 ### MIT App Inventor Blocks
 
